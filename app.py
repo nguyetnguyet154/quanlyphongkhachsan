@@ -14,7 +14,7 @@ st.set_page_config(
 
 DB_NAME = "hotel_management.db"
 
-
+st.image("VT.jpg")
 # =========================
 # DATABASE
 # =========================
